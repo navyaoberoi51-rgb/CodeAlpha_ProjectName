@@ -1,5 +1,5 @@
 # CodeAlpha_ProjectName
-[hangman.py](https://github.com/user-attachments/files/24637787/hangman.py)
+[hangman.py](https://github.com/user-attachments/files/24637819/hangman.py)
 Python 3.14.2 (v3.14.2:df793163d58, Dec  5 2025, 12:18:06) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin
 Enter "help" below or click "Help" above for more information.
 >>> import random
@@ -15,7 +15,7 @@ Enter "help" below or click "Help" above for more information.
 ... incorrect_guesses = 0
 ... max_guesses = 6
 ... 
-... print(" Welcome to Hangman Game!")
+... print("🎯 Welcome to Hangman Game!")
 ... print("You have 6 incorrect guesses allowed.")
 ... 
 ... # Create display word with underscores
